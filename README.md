@@ -110,7 +110,8 @@ O deploy do projeto foi realizado utilizando a plataforma **Vercel**, proporcion
     yarn start
     ```
 
-##Infelizmente o layout ficou incompleto, mas acredito que eu possa ser um ótimo candidato para a vaga, aguardo contato e obrigado pela atenção!
+
+## Infelizmente o layout ficou incompleto, mas acredito que eu possa ser um ótimo candidato para a vaga, aguardo contato e obrigado pela atenção!
    
 
 
