@@ -3,6 +3,8 @@ Case Test para vaga de estágio.
 [Backend](https://github.com/LucasSrSilva/listadetarefas-nestjs)
 [Frontend](https://github.com/LucasSrSilva/listadetarefas-react)
 
+[Deploy Backend](https://listadetarefas-nestjs.onrender.com)
+[Deploy Frontend](https://listadetarefas-react-six.vercel.app/)
 
 # Back-end em NestJS
 
@@ -50,7 +52,7 @@ O deploy do projeto foi realizado utilizando a plataforma **Render**, proporcion
 
 1. **Clone o repositório**:
     ```bash
-    git clone <url-do-repositorio>
+    git clone <https://github.com/LucasSrSilva/listadetarefas-nestjs>
     ```
 2. **Instale as dependências**:
     ```bash
@@ -97,21 +99,18 @@ O deploy do projeto foi realizado utilizando a plataforma **Vercel**, proporcion
 
 1. **Clone o repositório**:
     ```bash
-    git clone <url-do-repositorio>
+    git clone <https://github.com/LucasSrSilva/listadetarefas-react>
     ```
 2. **Instale as dependências**:
     ```bash
     yarn install
     ```
-3. **Conexão com o backend:
+3. **Conexão com o backend**:
    Para conexão com o deploy no render, utilize: `https://listadetarefas-nestjs.onrender.com` caso deseja conectar com o back-end rodando em sua maquina utilize `localhost:4000`
 4. **Executar o projeto em desenvolvimento**:
     ```bash
     yarn start
     ```
 
-
-## Infelizmente o layout ficou incompleto, mas acredito que eu possa ser um ótimo candidato para a vaga, aguardo contato e obrigado pela atenção!
-   
 
 
