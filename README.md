@@ -1,5 +1,4 @@
 # Lista de Tarefas
-Case Test para vaga de estágio.
 
 [Backend](https://github.com/LucasSrSilva/listadetarefas-nestjs)
 
